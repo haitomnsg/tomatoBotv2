@@ -1,0 +1,3 @@
+# ninja log v5
+0	50512	1752551034964712165	/content/build/temp.linux-x86_64-cpython-311/content/deep-hough-transform/model/_cdht/deep_hough_cuda.o	b8bbd59bfeeb7faa
+1	77302	1752551061753600297	/content/build/temp.linux-x86_64-cpython-311/content/deep-hough-transform/model/_cdht/deep_hough_cuda_kernel.o	81b448dc21ac15eb
